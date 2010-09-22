@@ -267,11 +267,13 @@
 							<array>
 								<string>29B97314FDCFA39411CA2CEA</string>
 								<string>1C37FABC05509CD000000102</string>
+								<string>1CC0EA4004350EF90041110B</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>0</integer>
+									<integer>14</integer>
+									<integer>13</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
@@ -294,7 +296,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>-1034 403 788 504 -1280 0 1280 1024 </string>
+						<string>301 308 788 504 0 0 1280 1002 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -331,7 +333,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {580, 269}}</string>
 								<key>RubberWindowFrame</key>
-								<string>-1034 403 788 504 -1280 0 1280 1024 </string>
+								<string>301 308 788 504 0 0 1280 1002 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -351,7 +353,7 @@
 								<key>Frame</key>
 								<string>{{0, 274}, {580, 189}}</string>
 								<key>RubberWindowFrame</key>
-								<string>-1034 403 788 504 -1280 0 1280 1024 </string>
+								<string>301 308 788 504 0 0 1280 1002 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -521,7 +523,7 @@
 		<string>/Users/sybarite/Devel/INSTER-MEDIA/iBirth/iBirth.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>-1034 403 788 504 -1280 0 1280 1024 </string>
+	<string>301 308 788 504 0 0 1280 1002 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

@@ -1,8 +1,3 @@
 build/*
 
-build/iBirth.build/iBirth.pbxindex/pbxindex.header
-
-build/iBirth.build/iBirth.pbxindex/pbxindex.header
-build/iBirth.build/iBirth.pbxindex/strings.pbxstrings/control
-build/iBirth.build/iBirth.pbxindex/strings.pbxstrings/strings
-build/iBirth.build/iBirth.pbxindex/symbols0.pbxsymbols
+.gitignore
